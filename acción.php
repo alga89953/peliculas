@@ -2,6 +2,7 @@
 <!--// V 0.1 original -->
 <!--// Autor: Chiphysi  --><!--// Autor: Jhonatan Cardona  -->
 <!--// Derechos de autor(Suscribete)  -->
+<!--se agrega unos comentarios-->
 <!DOCTYPE html>
 <html lang="es">
 <head>
